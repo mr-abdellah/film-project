@@ -105,3 +105,27 @@ body{
     border-radius: 6px;
     border: transparent 2px;
 }
+footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+    background-color: white;
+}
+footer p{
+    color: black;
+    font-size: 27px;
+    font-weight: bold;
+    max-width: 220px;
+    text-align: left;
+    font-family: 'Inspiration', cursive;
+}
+footer img{
+    width: 70px;
+    height: 70px;
+    margin-right: 10px;
+}
+footer a{
+    color: red;
+    margin-left: 5px;
+}
